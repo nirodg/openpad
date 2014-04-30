@@ -1,4 +1,4 @@
-mutex
+OpenPad
 =====
 @ Description:
   Synchronised app based on Java with two parts; Server - Client
